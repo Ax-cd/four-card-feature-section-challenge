@@ -84,7 +84,7 @@ img {
     }
 }
 
-@media screen and (min-width: 100em) { /*Desktop*/
+@media screen and (min-width: 90em) { /*Desktop*/
     .header {
         margin: 2rem 27rem 1rem;
     }
