@@ -86,13 +86,13 @@ img {
 
 @media screen and (min-width: 90em) { /*Desktop*/
     .header {
-        margin: 2rem 27rem 1rem;
+        margin: 2rem 25rem 1rem;
     }
     h1 {
         margin: 0 8rem;
     }
     .header > p {
-        margin: 1rem 5rem;
+        margin: 1rem 4rem;
     }
     .grid {
         width: 75%;
